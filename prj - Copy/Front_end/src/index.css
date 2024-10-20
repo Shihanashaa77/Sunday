@@ -1,0 +1,29 @@
+body{
+  
+   min-height: 100vh;
+   margin: 0;
+   overflow-y: hidden;
+}
+
+.bg{
+    background-image: url("https://img.freepik.com/free-vector/online-job-interview_23-2148644500.jpg?w=996&t=st=1726812147~exp=1726812747~hmac=925a176c488a2472d88193e1d6d08e16ab6f5860821919a73b28d4fe4a4085dc");
+    background-size: contain;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    width: 100%;
+    height:100vh;
+}
+
+.user{
+    background-image: url("https://static.tnn.in/thumb/msid-109645566,thumbsize-47668,width-1280,height-720,resizemode-75/109645566.jpg?quality=100");
+    background-size: contain;
+    background-position: center;
+    align-items: center;
+    justify-content: center;
+    opacity: 1;
+    width: 100%;
+    height:100vh;
+}
+ 
